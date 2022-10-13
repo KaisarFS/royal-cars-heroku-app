@@ -1,0 +1,85 @@
+[    
+    {
+        "brand": "Mitsubishi",
+        "description": "Repair Left Maxilla, External Approach",
+        "price": "700000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "Truck",
+        "UserId": 1
+        
+        
+    },
+    {
+        "brand": "Supra",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "652000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "JDM",
+        "UserId": 2
+    },
+    {
+        "brand": "Nissan",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "952000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "JDM",
+        "UserId": 3
+    },
+    {
+        "brand": "Kijang",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "152000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "Family",
+        "UserId": 4
+    },
+    {
+        "brand": "Avanza",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "32000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "Family",
+        "UserId": 5
+    },
+    {
+        "brand": "Lamborghini",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "125000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "Sport",
+        "UserId": 6
+    },
+    {
+        "brand": "Ferrari",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "170000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "Sport",
+        "UserId": 7
+    },
+    {
+        "brand": "Mitsubishi",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "125000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "Truck",
+        "UserId": 8
+    },
+    {
+        "brand": "Lamborghini",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "125000000",
+        "imageUrl": "https://i.ytimg.com/vi/rgikCMz3z_c/maxresdefault.jpg",
+        "category": "Sport",
+        "UserId": 9
+    },
+    {
+        "brand": "BMW",
+        "description": "Lorem impsuemwe Repair Left Maxilla, External Approach",
+        "price": "225000000",
+        "imageUrl": "https://cdn.motor1.com/images/mgl/P33J9G/s1/4x3/2022-bmw-3er-limousine.webp",
+        "category": "Sport",
+        "UserId": 10
+    }
+    
+]
